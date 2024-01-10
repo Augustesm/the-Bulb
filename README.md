@@ -20,7 +20,7 @@ Experience the art of branding with the creation of a unique logo inspired by th
 ### Color Palette and Typography
 Delve into the color palette and typography choices that define the visual identity of this portfolio. From vibrant hues to carefully selected fonts, each element contributes to the overall aesthetic and message conveyed.
 
-![Screenshot 2024-01-10 151406](https://github.com/Augustesm/the-Bulb/assets/25414343/0f7467da-f887-4bbf-a3ef-d03e8599fe71)
+![Screenshot 2024-01-10 151524](https://github.com/Augustesm/the-Bulb/assets/25414343/a6e90fbb-34b9-41f2-9df2-366b894032ca)
 ![Screenshot 2024-01-10 151537](https://github.com/Augustesm/the-Bulb/assets/25414343/948d12fd-a633-49f8-9ba5-0efcaa60d045)
 ![Screenshot 2024-01-10 151548](https://github.com/Augustesm/the-Bulb/assets/25414343/997585a7-d073-4c0f-8a23-a78b2c0e7f3b)
 ![Screenshot 2024-01-10 151601](https://github.com/Augustesm/the-Bulb/assets/25414343/8831c39e-c4bd-4363-94cc-c40a77aa81a6)
